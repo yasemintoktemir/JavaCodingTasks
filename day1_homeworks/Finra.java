@@ -1,3 +1,5 @@
+package day1_homeworks;
+
 import java.util.Scanner;
 
 public class Finra {
