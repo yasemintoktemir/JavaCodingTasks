@@ -1,7 +1,7 @@
 package day0524;
 
 import java.util.Scanner;
-
+// joelkap
 public class DivideWithoutOp {
     public static void main(String[] args) {
 
