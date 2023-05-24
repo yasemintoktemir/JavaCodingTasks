@@ -2,7 +2,7 @@ package day1;
 
 public class WithoutOperation {
 
-    public static void division(int num, int divider){
+    public static String division(int num, int divider){
 
         int count = 0;
 
@@ -14,7 +14,7 @@ public class WithoutOperation {
 
         }
 
-        System.out.println( "result of division = " + count + " remainder = " +  num);
+        return "result of division = " + count + " remainder = " +  num ;
 
 
 
